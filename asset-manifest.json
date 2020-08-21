@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-30-days-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-30-days-react-app/static/js/main.7faa352d.chunk.js",
+    "main.js.map": "/my-30-days-react-app/static/js/main.7faa352d.chunk.js.map",
+    "runtime-main.js": "/my-30-days-react-app/static/js/runtime-main.ec7c8c8d.js",
+    "runtime-main.js.map": "/my-30-days-react-app/static/js/runtime-main.ec7c8c8d.js.map",
+    "static/js/2.02d69526.chunk.js": "/my-30-days-react-app/static/js/2.02d69526.chunk.js",
+    "static/js/2.02d69526.chunk.js.map": "/my-30-days-react-app/static/js/2.02d69526.chunk.js.map",
+    "index.html": "/my-30-days-react-app/index.html",
+    "precache-manifest.da7cdf8df8e5a6bc8af4f41a96c07d88.js": "/my-30-days-react-app/precache-manifest.da7cdf8df8e5a6bc8af4f41a96c07d88.js",
+    "service-worker.js": "/my-30-days-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-30-days-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.02d69526.chunk.js.LICENSE.txt": "/my-30-days-react-app/static/js/2.02d69526.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-30-days-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7c8c8d.js",
+    "static/js/2.02d69526.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7faa352d.chunk.js"
+  ]
+}
