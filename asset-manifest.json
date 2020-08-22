@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-30-days-react-app/static/css/main.2b0f36ae.chunk.css",
-    "main.js": "/my-30-days-react-app/static/js/main.da142a82.chunk.js",
-    "main.js.map": "/my-30-days-react-app/static/js/main.da142a82.chunk.js.map",
+    "main.js": "/my-30-days-react-app/static/js/main.e60f99a2.chunk.js",
+    "main.js.map": "/my-30-days-react-app/static/js/main.e60f99a2.chunk.js.map",
     "runtime-main.js": "/my-30-days-react-app/static/js/runtime-main.ec7c8c8d.js",
     "runtime-main.js.map": "/my-30-days-react-app/static/js/runtime-main.ec7c8c8d.js.map",
     "static/js/2.d234ce80.chunk.js": "/my-30-days-react-app/static/js/2.d234ce80.chunk.js",
     "static/js/2.d234ce80.chunk.js.map": "/my-30-days-react-app/static/js/2.d234ce80.chunk.js.map",
     "index.html": "/my-30-days-react-app/index.html",
-    "precache-manifest.af464a9f235d94fb82384099d5bc91b7.js": "/my-30-days-react-app/precache-manifest.af464a9f235d94fb82384099d5bc91b7.js",
+    "precache-manifest.ce71d0a370a473487160974481464196.js": "/my-30-days-react-app/precache-manifest.ce71d0a370a473487160974481464196.js",
     "service-worker.js": "/my-30-days-react-app/service-worker.js",
     "static/css/main.2b0f36ae.chunk.css.map": "/my-30-days-react-app/static/css/main.2b0f36ae.chunk.css.map",
     "static/js/2.d234ce80.chunk.js.LICENSE.txt": "/my-30-days-react-app/static/js/2.d234ce80.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec7c8c8d.js",
     "static/js/2.d234ce80.chunk.js",
     "static/css/main.2b0f36ae.chunk.css",
-    "static/js/main.da142a82.chunk.js"
+    "static/js/main.e60f99a2.chunk.js"
   ]
 }
